@@ -1,0 +1,11 @@
+<configuration>
+	<episerver.shell>
+		<publicModules>
+			<add name="FortuneCookie.PageTypeSecurityOverview">
+				<assemblies>
+					<add assembly="FortuneCookie.PageTypeSecurityOverview" />
+				</assemblies>
+			</add>
+		</publicModules>
+	</episerver.shell>
+</configuration>

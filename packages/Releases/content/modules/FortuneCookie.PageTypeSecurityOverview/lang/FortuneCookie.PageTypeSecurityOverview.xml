@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<languages>
+  <language name="English" id="en">
+    <pagetypesecurityoverview>
+      <title>Page Type Security Overview</title>
+      <description>A summary of available page types, users / groups who can create them and page types which can be created as children.</description>
+      <pagetype>Page Type</pagetype>
+      <principals>Users /Groups</principals>
+      <allowable>Allowable child page types</allowable>
+      <edit>Edit this page type</edit>
+      <skipto>Skip to this page type</skipto>
+      <available>Available in edit mode</available>
+    </pagetypesecurityoverview>
+  </language>
+</languages>

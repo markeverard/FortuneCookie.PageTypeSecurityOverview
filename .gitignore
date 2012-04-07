@@ -1,0 +1,16 @@
+*.suo
+*.user
+bin
+obj
+_ReSharper*
+*.csproj.user
+*.resharper.user
+*.suo
+*.cache
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db

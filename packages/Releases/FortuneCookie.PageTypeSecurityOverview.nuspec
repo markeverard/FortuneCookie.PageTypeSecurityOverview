@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package>
+  <metadata>
+    <id>FortuneCookie.PageTypeSecurityOverview</id>
+    <version>1.0.0.1</version>
+    <authors>Mark Everard</authors>
+    <licenseUrl>https://github.com/markeverard/FortuneCookie.PropertySecurity</licenseUrl>
+    <projectUrl>https://github.com/markeverard/FortuneCookie.PropertySecurity</projectUrl>
+    <iconUrl>http://www.codeplex.com/Project/Download/FileDownload.aspx?ProjectName=personalization&amp;DownloadId=237158</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The PropertySecurity module for EPiServer CMS6R2 provides an Admin plugin which details the current Page Type security and access settings.</description>
+    <summary>The PropertySecurity module for EPiServer CMS6R2 provides an Admin plugin which details the current Page Type security and access settings.</summary>
+    <language>en-US</language>
+    <dependencies>
+      <dependency id="EPiServer.CMS.Core" version="6.1.379.0" />
+    </dependencies>
+  </metadata>
+</package>
